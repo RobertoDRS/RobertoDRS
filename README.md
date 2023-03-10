@@ -3,9 +3,9 @@
 - 👔 Eu estou a procura do primeiro emprego na área de programação...
 - 📚 Eu atualmente estou estudando TypeScript...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoDRS&theme=transparent&show_icons=true&locale=pt-br&title_color=483D8B&text_color=808080&icon_color=000080&card_width=700px)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoDRS&theme=transparent&show_icons=true&locale=pt-br&title_color=1E90FF&text_color=808080&icon_color=4169E1&card_width=700px)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoDRS&theme=transparent&show_icons=true&locale=pt-br&title_color=483D8B&text_color=808080&icon_color=000080&card_width=700px)](https://github.com/anuraghazra/github-readmestats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoDRS&theme=transparent&show_icons=true&locale=pt-br&title_color=1E90FF&text_color=808080&icon_color=4169E1&card_width=700px)](https://github.com/anuraghazra/github-readmestats)
 
 
 <div style="display: inline_block"><br>
